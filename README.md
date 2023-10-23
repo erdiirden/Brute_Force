@@ -1,4 +1,4 @@
-# Brute Force
+# Python ile Brute Force Şifreleri Oluşturma
 
 Bu projede kullanıcının istediği doğrultusunda kaba kuvvet saldırısı için şifreler oluşturulur ve bu şifreler password adında bir txt dosyasına kaydedilir.
 
